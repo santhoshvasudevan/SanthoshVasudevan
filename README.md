@@ -149,8 +149,8 @@ A reusable Python-based framework for automotive ECU test automation:
 
 ## 📫 Connect With Me
 
-- LinkedIn: Add your LinkedIn URL here
-- GitHub: Add your GitHub URL here
+- LinkedIn: https://www.linkedin.com/in/santhosh-kumar-b272079/
+- GitHub: you are there
 - Portfolio: Coming soon
 
 ---
